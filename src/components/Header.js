@@ -7,7 +7,7 @@ export default function() {
         <div className="nav-icon">
           <a href="https://mapbd.github.io/">
             <img
-              src="http://www.missingmaps.org/assets/graphics/meta/MM-White.svg"
+              src="https://raw.githubusercontent.com/mapbd/stats/main/mapbd_logo.png"
               width="94px"
               alt="Missing Maps logo "
             />
