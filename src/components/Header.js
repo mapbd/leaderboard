@@ -5,7 +5,7 @@ export default function() {
     <header>
       <div className="navbar-background">
         <div className="nav-icon">
-          <a href="http://missingmaps.org/">
+          <a href="https://mapbd.github.io/">
             <img
               src="http://www.missingmaps.org/assets/graphics/meta/MM-White.svg"
               width="94px"
