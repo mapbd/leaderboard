@@ -11,7 +11,7 @@ var history = createHistory({
 ReactDOM.render((
   <Router history={history}>
     <Switch>
-      <Route path="/" exact render={props => <Redirect to="/missingmaps" />} />
+      <Route path="/" exact render={props => <Redirect to="/mapbd" />} />
       <Route path="/:id" component={App} />
     </Switch>
   </Router>),
