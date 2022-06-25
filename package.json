@@ -1,5 +1,5 @@
 {
-  "name": "leaderboards",
+  "name": "leaderboard",
   "version": "0.0.1",
   "description": "Leaderboard page",
   "main": "index.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MissingMaps/leaderboards.git"
+    "url": "https://github.com/mapbd/leaderboard.git"
   },
   "author": "Development Seed",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/MissingMaps/leaderboards/issues"
+    "url": "https://github.com/mapbd/leaderboard/issues"
   },
-  "homepage": "http://missingmaps.org/leaderboards",
+  "homepage": "http://mapbd.github.io/leaderboard",
   "babel": {
     "presets": [
       [
