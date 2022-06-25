@@ -92,7 +92,7 @@ export default createClass({
     const { suggested, suggestions } = this.state;
 
     const suggestionProps = {
-      placeholder: "missingmaps",
+      placeholder: "mapbd",
       value: suggested,
       onChange: this.onChange
     };
